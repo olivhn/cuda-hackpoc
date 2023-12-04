@@ -1,0 +1,8 @@
+.gitattributes      text
+.gitignore          text
+
+*.h                 text
+*.cc                text
+*.cu                text
+*.txt               text
+*.md                text
